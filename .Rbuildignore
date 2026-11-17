@@ -1,0 +1,6 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^pedplot\.Rproj$
+^Rprof\.out$
+^notes-private$
+^README\.Rmd$

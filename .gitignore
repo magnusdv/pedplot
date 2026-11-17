@@ -1,0 +1,11 @@
+.Rproj.user
+.Rhistory
+.RData
+.httr-oauth
+.DS_Store
+.quarto
+Rprof.out
+CRAN-SUBMISSION
+notes-private
+Rprof.out
+tests/testthat/Rplots.pdf
